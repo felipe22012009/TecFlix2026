@@ -1,17 +1,18 @@
-body{
-background-color: black;
-color: blue;
-font-family: "Crimson Text", serif;
+body {
+    background-color: black;
+    color: rgb(219, 219, 231);
+    font-family: "Crimson Text", serif;
 }
 
-header{
-border:solid 3px rgb(1, 183, 255)
+header {
+    border: solid 3px rgb(1, 183, 255)
+    
 }
 
-h1{
-font-size: 40px;
+h1 {
+    font-size: 40px;
 }
 
-p{
-font-size: 20px;
+p {
+    font-size: 20px;
 }
